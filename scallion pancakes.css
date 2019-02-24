@@ -1,0 +1,40 @@
+#unique {
+	color: white;
+	text-align: center;
+	font-family: palatino;
+	background-color: #D8F6CE;
+	padding: 16px 1px;
+}
+
+
+.intro {
+	background-color: #EFFBEF;
+	width: 300px;
+	border: 25px;
+	padding: 25px;
+	margin: 25px;
+}
+
+img {
+	margin-left: 400px;
+}
+
+a:link {
+  text-decoration: none;
+  color: black;
+}
+
+a:visited {
+  text-decoration: none;
+  color: black;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: black;
+}
+
+a:active {
+  text-decoration: underline;
+  color: black;
+}
